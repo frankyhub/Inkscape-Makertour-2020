@@ -5,5 +5,5 @@ Inkscape Files für die Oberlab MakerTour 2020
 
 Inkscape Download: https://inkscape.org/release/inkscape-1.0.1/
 
-[Box-Generator](https://www.festi.info/boxes.py/index.html)
+Link [Box-Generator](https://www.festi.info/boxes.py/index.html)
 
